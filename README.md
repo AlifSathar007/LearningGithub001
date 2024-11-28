@@ -1,3 +1,3 @@
 # LearningGithub001
 
-This is a description for mt Readme file
+This is a description for my Readme file
